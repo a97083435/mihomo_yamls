@@ -1,6 +1,8 @@
 name: Update File Test
 
 on:
+  schedule:
+    - cron: '30 22 * * *' # UTC 22:30 = 北京时间次日6:30
   workflow_dispatch: # 允许手动触发
 
 # --- [修复核心] 添加写入权限 ---

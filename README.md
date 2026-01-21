@@ -53,7 +53,7 @@
             </ul>
         </td>
         <td width="50%" align="center">
-            <h3>🛡️ 规则集说明</h3>
+            <h3>规则集说明</h3>
             <p>深入了解分流机制与自定义</p>
             <a href="./RULESET_README.md">
                 <img src="https://img.shields.io/badge/点击查看-RuleSets-orange?style=for-the-badge&logo=adblock" alt="Rules">
